@@ -193,6 +193,7 @@
 				TargetAttributes = {
 					74DCC29D1F48913300C2F80F = {
 						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = ASEUR2BJ2X;
 						ProvisioningStyle = Automatic;
 					};
 					74DCC2B11F48913300C2F80F = {
@@ -414,6 +415,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = ASEUR2BJ2X;
 				INFOPLIST_FILE = MapDraft/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = test.MapDraft;
@@ -426,6 +428,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = ASEUR2BJ2X;
 				INFOPLIST_FILE = MapDraft/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = test.MapDraft;
@@ -507,6 +510,7 @@
 				74DCC2C81F48913300C2F80F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		74DCC2C91F48913300C2F80F /* Build configuration list for PBXNativeTarget "MapDraftTests" */ = {
 			isa = XCConfigurationList;
@@ -515,6 +519,7 @@
 				74DCC2CB1F48913300C2F80F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		74DCC2CC1F48913300C2F80F /* Build configuration list for PBXNativeTarget "MapDraftUITests" */ = {
 			isa = XCConfigurationList;
@@ -523,6 +528,7 @@
 				74DCC2CE1F48913300C2F80F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
